@@ -1,1 +1,3 @@
 # sacheck
+
+init
